@@ -23,7 +23,7 @@ mvn clean install
 
 or
 
-* Download the latest released bundle from https://github.com/maximilianvoss/universal-editor-service-proxy/releases/latest
+* Download the latest released bundle from https://github.com/adobe/universal-editor-service-proxy/releases/latest
 
 And then
 
